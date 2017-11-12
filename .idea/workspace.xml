@@ -1,10 +1,96 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fb23874b-9324-41a7-8f01-0dd9cad039a1" name="Default" comment="Clean subscriber added">
+    <list default="true" id="fb23874b-9324-41a7-8f01-0dd9cad039a1" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../Source/MTSCaptivePortal/app/assets/images/getcpsbackground.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../Source/MTSCaptivePortal/app/assets/images/getcpslogo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../Source/MTSCaptivePortal/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../Source/MTSCaptivePortal/.idea/runConfigurations/Development__MagistryClient.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../Source/MTSCaptivePortal/.idea/runConfigurations/Development__Master_password_save.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../Source/MTSCaptivePortal/.idea/runConfigurations/Development__SMENA.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../Source/MTSCaptivePortal/.idea/runConfigurations/Production__MagistryClient.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../Source/MTSCaptivePortal/.idea/runConfigurations/Production__Master_password_save.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../Source/MTSCaptivePortal/.idea/runConfigurations/Production__SMENA.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../Source/MTSCaptivePortal/.idea/runConfigurations/coa.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../Source/MTSCaptivePortal/.idea/runConfigurations/coa2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../Source/MTSCaptivePortal/.idea/runConfigurations/mysql_test.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../Source/MTSCaptivePortal/.idea/runConfigurations/netconftest.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../Source/MTSCaptivePortal/.idea/runConfigurations/peerAddrParse.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../Source/MTSCaptivePortal/.idea/runConfigurations/radius.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../Source/MTSCaptivePortal/.idea/runConfigurations/spec__MagistryClient.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../Source/MTSCaptivePortal/.idea/runConfigurations/spec__Master_password_save.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../Source/MTSCaptivePortal/.idea/runConfigurations/spec__SMENA.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../Source/MTSCaptivePortal/.idea/runConfigurations/test__1_.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../Source/MTSCaptivePortal/.idea/runConfigurations/test__2_.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../Source/MTSCaptivePortal/.idea/runConfigurations/test__3_.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../Source/MTSCaptivePortal/.idea/runConfigurations/test__MagistryClient.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../Source/MTSCaptivePortal/.idea/runConfigurations/test__Master_password_save.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../Source/MTSCaptivePortal/.idea/runConfigurations/test__SMENA.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../Source/MTSCaptivePortal/.idea/runConfigurations/testsoap.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../Source/MTSCaptivePortal/.idea/runConfigurations/wifi_portal_controller.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../Source/MTSCaptivePortal/app/assets/stylesheets/getcpsstyle.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../Source/MTSCaptivePortal/app/assets/stylesheets/style_smena_room.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../Source/MTSCaptivePortal/app/views/getcps/logonsuccess.html.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../Source/MTSCaptivePortal/app/views/getcps/sessionerase.html.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../Source/MTSCaptivePortal/app/views/login/again.html.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../Source/MTSCaptivePortal/app/views/portal_clientsversion/nbrb_raubichi/Nbrb_A_start_page.html.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../Source/MTSCaptivePortal/app/views/portal_clientsversion/nbrb_raubichi/Nbrb_check_msisdn_and_send_sms.html.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../Source/MTSCaptivePortal/app/views/portal_clientsversion/nbrb_raubichi/Nbrb_end_if_failed_auth_or_code_incorrect.html.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../Source/MTSCaptivePortal/lib/mts/Database/dbtest.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../Source/MTSCaptivePortal/lib/mts/SMSC/testsmpp.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../Source/MTSCaptivePortal/lib/mts/SOAP/testsoap.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../Source/MTSCaptivePortal/lib/mts/SSH/sshtest.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/runConfigurations/All_tests_in_12__SOAP_gateway.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/runConfigurations/Development__SOAP_gateway.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/runConfigurations/Development__untitled.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/runConfigurations/Production__SOAP_gateway.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/runConfigurations/clear.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/runConfigurations/exceptionTest.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/runConfigurations/get_mikr_info_test.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/runConfigurations/rac_lac_zone_form_dec_to_hec.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/runConfigurations/rnc_zone_form_dec_to_hec.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/runConfigurations/spec__SOAP_gateway.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/runConfigurations/sshtest.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/runConfigurations/sshtest__1_.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/runConfigurations/starosssh.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/runConfigurations/t.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/runConfigurations/tac_zone_form_dec_to_hex.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/runConfigurations/test.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/runConfigurations/test2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/runConfigurations/test__SOAP_gateway.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/runConfigurations/wifi_portal_controller.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../Source/MTSCaptivePortal/config/initializers/smsc_start.rb" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../Source/MTSCaptivePortal/.idea/MTSCaptivePortal.iml" afterPath="$PROJECT_DIR$/../../../Source/MTSCaptivePortal/.idea/MTSCaptivePortal.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../Source/MTSCaptivePortal/.idea/MTSCaptivePortal_2.iml" afterPath="$PROJECT_DIR$/../../../Source/MTSCaptivePortal/.idea/MTSCaptivePortal_2.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../Source/MTSCaptivePortal/.idea/modules.xml" afterPath="$PROJECT_DIR$/../../../Source/MTSCaptivePortal/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../Source/MTSCaptivePortal/.idea/runConfigurations/Development__MTSCaptivePortal.xml" afterPath="$PROJECT_DIR$/../../../Source/MTSCaptivePortal/.idea/runConfigurations/Development__MTSCaptivePortal.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../Source/MTSCaptivePortal/.idea/runConfigurations/Development__SOAP_gateway.xml" afterPath="$PROJECT_DIR$/../../../Source/MTSCaptivePortal/.idea/runConfigurations/Development__SOAP_gateway.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../Source/MTSCaptivePortal/.idea/runConfigurations/Production__MTSCaptivePortal_2.xml" afterPath="$PROJECT_DIR$/../../../Source/MTSCaptivePortal/.idea/runConfigurations/Production__MTSCaptivePortal_2.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../Source/MTSCaptivePortal/.idea/vcs.xml" afterPath="$PROJECT_DIR$/../../../Source/MTSCaptivePortal/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../Source/MTSCaptivePortal/Gemfile" afterPath="$PROJECT_DIR$/../../../Source/MTSCaptivePortal/Gemfile" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../Source/MTSCaptivePortal/Gemfile.lock" afterPath="$PROJECT_DIR$/../../../Source/MTSCaptivePortal/Gemfile.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../Source/MTSCaptivePortal/app/assets/stylesheets/belneft_body.css" afterPath="$PROJECT_DIR$/../../../Source/MTSCaptivePortal/app/assets/stylesheets/belneft_body.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../Source/MTSCaptivePortal/app/assets/stylesheets/steps/belneft_step1_mobile.css" afterPath="$PROJECT_DIR$/../../../Source/MTSCaptivePortal/app/assets/stylesheets/steps/belneft_step1_mobile.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../Source/MTSCaptivePortal/app/assets/stylesheets/steps/step1_mobile.css" afterPath="$PROJECT_DIR$/../../../Source/MTSCaptivePortal/app/assets/stylesheets/steps/step1_mobile.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../Source/MTSCaptivePortal/app/assets/stylesheets/steps/step1_pc.css" afterPath="$PROJECT_DIR$/../../../Source/MTSCaptivePortal/app/assets/stylesheets/steps/step1_pc.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../Source/MTSCaptivePortal/app/assets/stylesheets/steps/step1_tablet.css" afterPath="$PROJECT_DIR$/../../../Source/MTSCaptivePortal/app/assets/stylesheets/steps/step1_tablet.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../Source/MTSCaptivePortal/app/assets/stylesheets/style_engineering_room.css" afterPath="$PROJECT_DIR$/../../../Source/MTSCaptivePortal/app/assets/stylesheets/style_engineering_room.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../Source/MTSCaptivePortal/app/controllers/say_hello_controller.rb" afterPath="$PROJECT_DIR$/../../../Source/MTSCaptivePortal/app/controllers/say_hello_controller.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../Source/MTSCaptivePortal/app/views/portal_clientsversion/belneft/Belneft_end_if_failed_auth_or_code_incorrect.html.erb" afterPath="$PROJECT_DIR$/../../../Source/MTSCaptivePortal/app/views/portal_clientsversion/belneft/Belneft_end_if_failed_auth_or_code_incorrect.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../Source/MTSCaptivePortal/app/views/portal_clientsversion/belneft/Belneft_intro.html.erb" afterPath="$PROJECT_DIR$/../../../Source/MTSCaptivePortal/app/views/portal_clientsversion/belneft/Belneft_intro.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../Source/MTSCaptivePortal/app/views/say_hello/MTS_A_start_page.html.erb" afterPath="$PROJECT_DIR$/../../../Source/MTSCaptivePortal/app/views/say_hello/MTS_A_start_page.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../Source/MTSCaptivePortal/config/initializers/assets.rb" afterPath="$PROJECT_DIR$/../../../Source/MTSCaptivePortal/config/initializers/assets.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../Source/MTSCaptivePortal/config/initializers/filter_parameter_logging.rb" afterPath="$PROJECT_DIR$/../../../Source/MTSCaptivePortal/config/initializers/filter_parameter_logging.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../Source/MTSCaptivePortal/config/routes.rb" afterPath="$PROJECT_DIR$/../../../Source/MTSCaptivePortal/config/routes.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../Source/MTSCaptivePortal/lib/mts/Database/DatabaseIntegration.rb" afterPath="$PROJECT_DIR$/../../../Source/MTSCaptivePortal/lib/mts/Database/DatabaseIntegration.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../Source/MTSCaptivePortal/lib/mts/Database/mysql_test.rb" afterPath="$PROJECT_DIR$/../../../Source/MTSCaptivePortal/lib/mts/Database/mysql_test.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../Source/MTSCaptivePortal/lib/mts/SMSC/MTSsmsc.rb" afterPath="$PROJECT_DIR$/../../../Source/MTSCaptivePortal/lib/mts/SMSC/MTSsmsc.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/staros.iml" afterPath="$PROJECT_DIR$/.idea/staros.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/staros/version.rb" afterPath="$PROJECT_DIR$/lib/staros/version.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/staros.gemspec" afterPath="$PROJECT_DIR$/staros.gemspec" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/staros_test.rb" afterPath="$PROJECT_DIR$/test/staros_test.rb" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,67 +99,56 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ChangesViewManager" flattened_view="false" />
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/staros@clearunauthsubs.coverage" NAME="clearunauthsubs Coverage Results" MODIFIED="1505481426189" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../Source/MTSSoapGW/lib/mtswifi/SSH" MODULE_NAME="SOAP_gateway" />
+    <SUITE FILE_PATH="coverage/staros@xmlparse.coverage" NAME="xmlparse Coverage Results" MODIFIED="1505204420461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../Source/MTSSoapGW/lib/examples" MODULE_NAME="SOAP_gateway" />
+    <SUITE FILE_PATH="coverage/staros@test__staros.coverage" NAME="test: staros Coverage Results" MODIFIED="1504463324311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="staros" />
+    <SUITE FILE_PATH="coverage/staros@sshtest1.coverage" NAME="sshtest1 Coverage Results" MODIFIED="1505481488663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../Source/MTSSoapGW/lib/mtswifi/SSH" MODULE_NAME="SOAP_gateway" />
+    <SUITE FILE_PATH="coverage/staros@peerAddrParse.coverage" NAME="peerAddrParse Coverage Results" MODIFIED="1504856852128" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../Source/MTSSoapGW/lib/any" MODULE_NAME="SOAP_gateway" />
     <SUITE FILE_PATH="coverage/staros@staros.coverage" NAME="staros Coverage Results" MODIFIED="1504283037322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="staros" />
+    <SUITE FILE_PATH="coverage/staros@Rails_console__SOAP_gateway.coverage" NAME="Rails console: SOAP_gateway Coverage Results" MODIFIED="1510494561908" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../Source/MTSSoapGW" MODULE_NAME="SOAP_gateway" />
+    <SUITE FILE_PATH="coverage/staros@sshtest.coverage" NAME="sshtest Coverage Results" MODIFIED="1505475351089" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../Source/MTSSoapGW/lib/mtswifi/SSH" MODULE_NAME="SOAP_gateway" />
+    <SUITE FILE_PATH="coverage/staros@Development__SOAP_gateway.coverage" NAME="Development: SOAP_gateway Coverage Results" MODIFIED="1505475550197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../Source/MTSSoapGW" MODULE_NAME="SOAP_gateway" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="staros.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/staros.rb">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="wifi_portal_controller.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../../Source/MTSSoapGW/app/controllers/wifi_portal_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+            <state relative-caret-position="1650">
+              <caret line="110" column="30" lean-forward="false" selection-start-line="110" selection-start-column="22" selection-end-line="110" selection-end-column="30" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="bundler.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@global/gems/bundler-1.13.7/lib/bundler.rb">
+      <file leaf-file-name="clearunauthsubs.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../../Source/MTSSoapGW/lib/mtswifi/SSH/clearunauthsubs.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="513">
-              <caret line="343" column="7" lean-forward="true" selection-start-line="343" selection-start-column="7" selection-end-line="343" selection-end-column="7" />
+            <state relative-caret-position="1905">
+              <caret line="127" column="0" lean-forward="false" selection-start-line="127" selection-start-column="0" selection-end-line="138" selection-end-column="5" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ssh.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/net-ssh-3.2.0/lib/net/ssh.rb">
+      <file leaf-file-name="sshtest1.rb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../../../Source/MTSSoapGW/lib/mtswifi/SSH/sshtest1.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="19" lean-forward="false" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sshtest.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../../Source/MTSSoapGW/lib/mtswifi/SSH/sshtest.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
-              <caret line="5" column="13" lean-forward="true" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="version.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/staros/version.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="18" lean-forward="false" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Gemfile" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Gemfile">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="7" lean-forward="true" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="staros.gemspec" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/staros.gemspec">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="6" lean-forward="true" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
+              <caret line="5" column="2" lean-forward="false" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
               <folding />
             </state>
           </provider>
@@ -82,15 +157,28 @@
     </leaf>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../Source/MTSCaptivePortal" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/lib/staros/version.rb" />
         <option value="$PROJECT_DIR$/lib/staros.rb" />
         <option value="$PROJECT_DIR$/Gemfile" />
+        <option value="$PROJECT_DIR$/test/staros_test.rb" />
+        <option value="$PROJECT_DIR$/lib/staros/version.rb" />
         <option value="$PROJECT_DIR$/staros.gemspec" />
+        <option value="$PROJECT_DIR$/../../../Source/MTSSoapGW/lib/any/peeraddr.txt" />
+        <option value="$PROJECT_DIR$/../../../Source/MTSSoapGW/lib/any/dnsploczone.rb" />
+        <option value="$PROJECT_DIR$/../../../Source/MTSSoapGW/lib/any/peerAddrParse.rb" />
+        <option value="$PROJECT_DIR$/../../../Source/MTSSoapGW/lib/soapGateway/test.rb" />
+        <option value="$PROJECT_DIR$/../../../Source/MTSSoapGW/lib/mtswifi/AdditionalMethods.rb" />
+        <option value="$PROJECT_DIR$/../../../Source/MTSSoapGW/lib/examples/example.xml" />
+        <option value="$PROJECT_DIR$/../../../Source/MTSSoapGW/Gemfile" />
+        <option value="$PROJECT_DIR$/../../../Source/MTSSoapGW/lib/examples/xmlparse.rb" />
+        <option value="$PROJECT_DIR$/../../../Source/MTSSoapGW/lib/mtswifi/SSH/sshtest.rb" />
+        <option value="$PROJECT_DIR$/../../../Source/MTSSoapGW/app/controllers/wifi_portal_controller.rb" />
+        <option value="$PROJECT_DIR$/../../../Source/MTSSoapGW/lib/mtswifi/SSH/clearunauthsubs.rb" />
+        <option value="$PROJECT_DIR$/../../../Source/MTSSoapGW/lib/mtswifi/SSH/sshtest1.rb" />
       </list>
     </option>
   </component>
@@ -100,12 +188,20 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="243" />
-    <option name="y" value="159" />
+    <option name="x" value="192" />
+    <option name="y" value="30" />
     <option name="width" value="1109" />
     <option name="height" value="781" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -121,6 +217,46 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope">
+        <subPane subId="Default">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="staros">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="staros">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="staros">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT=".idea">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -139,15 +275,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="net-ssh (v3.2.0, RVM: ruby-2.3.0) [gem]" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="support" />
+              <option name="myItemId" value="MTSCaptivePortal" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -157,12 +285,12 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+              <option name="myItemId" value="MTSCaptivePortal" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="net-ssh (v3.2.0, RVM: ruby-2.3.0) [gem]" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -209,15 +337,29 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="RailsProjectView">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="staros" />
+              <option name="myItemType" value="org.jetbrains.plugins.ruby.rails.projectView.v2.nodes.RailsProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SOAP_gateway" />
+              <option name="myItemType" value="org.jetbrains.plugins.ruby.rails.projectView.v2.nodes.RailsModuleNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
       <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="ics" />
-    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="RakeTaksPopup.undocumentedIncluded" value="false" />
+    <property name="project.settings.patched" value="true" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -231,14 +373,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Ruby.staros">
-    <configuration default="false" name="staros" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
-      <module name="staros" />
-      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$" />
-      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
-      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
-      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+  <component name="RunManager" selected="IRB console.Rails console: SOAP_gateway">
+    <configuration default="false" name="Rails console: SOAP_gateway" type="IrbRunConfigurationType" factoryName="IRB console" temporary="true">
+      <module name="SOAP_gateway" />
+      <IRB_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <IRB_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <IRB_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <IRB_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <IRB_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
       <envs />
       <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
       <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
@@ -247,8 +389,9 @@
           <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
         </COVERAGE_PATTERN>
       </EXTENSION>
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/staros.gemspec" />
-      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <IRB_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/bin/rails" />
+      <IRB_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="console" />
+      <IRB_RUN_CONFIG NAME="IS_RAILS_CONSOLE" VALUE="true" />
       <method />
     </configuration>
     <configuration default="true" type="CucumberRunConfigurationType" factoryName="Cucumber">
@@ -283,6 +426,26 @@
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_RUNNER_PATH" VALUE="" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_RUNNER" VALUE="false" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
+      <method />
+    </configuration>
+    <configuration default="true" type="IrbRunConfigurationType" factoryName="IRB console">
+      <module name="" />
+      <IRB_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <IRB_RUN_CONFIG NAME="WORK DIR" VALUE="" />
+      <IRB_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <IRB_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <IRB_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <IRB_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="" />
+      <IRB_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <IRB_RUN_CONFIG NAME="IS_RAILS_CONSOLE" VALUE="false" />
       <method />
     </configuration>
     <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
@@ -332,6 +495,54 @@
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
       <method />
     </configuration>
+    <configuration default="true" type="RailsRunConfigurationType" factoryName="Rails">
+      <predefined_log_file id="RUBY_RAILS_SERVER" enabled="true" />
+      <module name="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SCRIPT_ARGS" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="PORT" VALUE="3000" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="IP" VALUE="0.0.0.0" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="DUMMY_APP" VALUE="test/dummy" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RAILS_SERVER_TYPE" VALUE="Default" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ENVIRONMENT_TYPE" VALUE="development" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="LAUNCH_JS" VALUE="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="RakeRunConfigurationType" factoryName="Rake">
+      <module name="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_NAME" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ARGS" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ATTACHED_TEST_FRAMEWORKS" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_TRACE" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_DRYRUN" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_PREREQS" VALUE="false" />
+      <method />
+    </configuration>
     <configuration default="true" type="RubyRunConfigurationType" factoryName="Ruby">
       <module name="" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
@@ -379,6 +590,12 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -388,14 +605,58 @@
       <envs />
       <method />
     </configuration>
-    <list size="2">
-      <item index="0" class="java.lang.String" itemvalue="Test::Unit/Shoulda/Minitest.All tests in staros: staros" />
-      <item index="1" class="java.lang.String" itemvalue="Ruby.staros" />
+    <list size="47">
+      <item index="0" class="java.lang.String" itemvalue="Ruby.belrw_stat_cisco" />
+      <item index="1" class="java.lang.String" itemvalue="Ruby.belrwstat" />
+      <item index="2" class="java.lang.String" itemvalue="Ruby.belrwstat_month" />
+      <item index="3" class="java.lang.String" itemvalue="Ruby.belrwstat_month_cisco" />
+      <item index="4" class="java.lang.String" itemvalue="Ruby.coa" />
+      <item index="5" class="java.lang.String" itemvalue="Ruby.coa2" />
+      <item index="6" class="java.lang.String" itemvalue="Ruby.coa3" />
+      <item index="7" class="java.lang.String" itemvalue="Ruby.get_iwag_dhcp" />
+      <item index="8" class="java.lang.String" itemvalue="Ruby.radius" />
+      <item index="9" class="java.lang.String" itemvalue="Ruby.test (1)" />
+      <item index="10" class="java.lang.String" itemvalue="Ruby.test (2)" />
+      <item index="11" class="java.lang.String" itemvalue="Ruby.test (3)" />
+      <item index="12" class="java.lang.String" itemvalue="Test::Unit/Shoulda/Minitest.All tests in 12: SOAP_gateway" />
+      <item index="13" class="java.lang.String" itemvalue="Rails.Development: untitled" />
+      <item index="14" class="java.lang.String" itemvalue="Rails.Production: SOAP_gateway" />
+      <item index="15" class="java.lang.String" itemvalue="Ruby.clear" />
+      <item index="16" class="java.lang.String" itemvalue="Ruby.exceptionTest" />
+      <item index="17" class="java.lang.String" itemvalue="Ruby.get_mikr_info_test" />
+      <item index="18" class="java.lang.String" itemvalue="Ruby.rac-lac_zone_form_dec_to_hec" />
+      <item index="19" class="java.lang.String" itemvalue="Ruby.rnc_zone_form_dec_to_hec" />
+      <item index="20" class="java.lang.String" itemvalue="Rake.spec: SOAP_gateway" />
+      <item index="21" class="java.lang.String" itemvalue="Ruby.sshtest" />
+      <item index="22" class="java.lang.String" itemvalue="Ruby.sshtest (1)" />
+      <item index="23" class="java.lang.String" itemvalue="Ruby.starosssh" />
+      <item index="24" class="java.lang.String" itemvalue="Ruby.t" />
+      <item index="25" class="java.lang.String" itemvalue="Ruby.tac_zone_form_dec_to_hex" />
+      <item index="26" class="java.lang.String" itemvalue="Ruby.test" />
+      <item index="27" class="java.lang.String" itemvalue="Ruby.test2" />
+      <item index="28" class="java.lang.String" itemvalue="Rake.test: SOAP_gateway" />
+      <item index="29" class="java.lang.String" itemvalue="Ruby.wifi_portal_controller" />
+      <item index="30" class="java.lang.String" itemvalue="Rails.Development: MTSCaptivePortal" />
+      <item index="31" class="java.lang.String" itemvalue="IRB console.IRB console: MTSCaptivePortal" />
+      <item index="32" class="java.lang.String" itemvalue="Rails.Production: MTSCaptivePortal" />
+      <item index="33" class="java.lang.String" itemvalue="IRB console.Rails console: MTSCaptivePortal" />
+      <item index="34" class="java.lang.String" itemvalue="Ruby.mysql_test" />
+      <item index="35" class="java.lang.String" itemvalue="Rake.spec: MTSCaptivePortal" />
+      <item index="36" class="java.lang.String" itemvalue="Rake.test: MTSCaptivePortal" />
+      <item index="37" class="java.lang.String" itemvalue="Ruby.testsoap" />
+      <item index="38" class="java.lang.String" itemvalue="Test::Unit/Shoulda/Minitest.All tests in staros: staros" />
+      <item index="39" class="java.lang.String" itemvalue="Ruby.staros" />
+      <item index="40" class="java.lang.String" itemvalue="Rake.test: staros" />
+      <item index="41" class="java.lang.String" itemvalue="Ruby.peerAddrParse" />
+      <item index="42" class="java.lang.String" itemvalue="Rails.Development: SOAP_gateway" />
+      <item index="43" class="java.lang.String" itemvalue="Ruby.xmlparse" />
+      <item index="44" class="java.lang.String" itemvalue="Ruby.clearunauthsubs" />
+      <item index="45" class="java.lang.String" itemvalue="Ruby.sshtest1" />
+      <item index="46" class="java.lang.String" itemvalue="IRB console.Rails console: SOAP_gateway" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Ruby.staros" />
-        <item index="1" class="java.lang.String" itemvalue="Test::Unit/Shoulda/Minitest.All tests in staros: staros" />
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="IRB console.Rails console: SOAP_gateway" />
       </list>
     </recent_temporary>
   </component>
@@ -403,6 +664,9 @@
     <option name="remove_strategy" value="false" />
   </component>
   <component name="SpringUtil" SPRING_PRE_LOADER_OPTION="true" />
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="fb23874b-9324-41a7-8f01-0dd9cad039a1" name="Default" comment="" />
@@ -410,7 +674,21 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1504220269192</updated>
-      <workItem from="1504256637088" duration="8424000" />
+      <workItem from="1504256637088" duration="13317000" />
+      <workItem from="1504682090929" duration="631000" />
+      <workItem from="1504705816789" duration="654000" />
+      <workItem from="1504855620346" duration="1942000" />
+      <workItem from="1504876787246" duration="1246000" />
+      <workItem from="1505083656918" duration="310000" />
+      <workItem from="1505084323205" duration="1855000" />
+      <workItem from="1505086199572" duration="1828000" />
+      <workItem from="1505088799074" duration="258000" />
+      <workItem from="1505116901778" duration="589000" />
+      <workItem from="1505203023933" duration="2219000" />
+      <workItem from="1505240058830" duration="920000" />
+      <workItem from="1505339523960" duration="557000" />
+      <workItem from="1505468074179" duration="5884000" />
+      <workItem from="1510494505714" duration="101000" />
     </task>
     <task id="LOCAL-00001" summary="Clean subscriber added">
       <created>1504277573631</created>
@@ -419,31 +697,50 @@
       <option name="project" value="LOCAL" />
       <updated>1504277573631</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Clean subscriber added">
+      <created>1504283075123</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1504283075123</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="test__staros - 2017.09.01 at 19h 27m 42s.xml">
+      <configuration name="test: staros" configurationId="RakeRunConfigurationType" />
+    </history-entry>
+    <history-entry file="test__staros - 2017.09.03 at 21h 27m 44s.xml">
+      <configuration name="test: staros" configurationId="RakeRunConfigurationType" />
+    </history-entry>
+    <history-entry file="test__staros - 2017.09.03 at 21h 28m 45s.xml">
+      <configuration name="test: staros" configurationId="RakeRunConfigurationType" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8424000" />
+    <option name="totallyTimeSpent" value="32311000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="243" y="159" width="1109" height="781" extended-state="0" />
+    <frame x="192" y="30" width="1109" height="781" extended-state="0" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24977458" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24977458" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3292683" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4696756" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24977458" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32863188" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -462,58 +759,364 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/../../../Source/MTSCaptivePortal/lib/mts/test/sms2.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Gemfile">
+    <entry file="file://$PROJECT_DIR$/../../../Source/MTSCaptivePortal/lib/mts/test/sms1.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="7" lean-forward="true" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
-          <folding />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@global/gems/bundler-1.13.7/lib/bundler.rb">
+    <entry file="file://$PROJECT_DIR$/../../../Source/MTSCaptivePortal/lib/mts/test/sample_smsc.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="343" column="7" lean-forward="true" selection-start-line="343" selection-start-column="7" selection-end-line="343" selection-end-column="7" />
-          <folding />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/net-ssh-3.2.0/lib/net/ssh.rb">
+    <entry file="file://$PROJECT_DIR$/../../../Source/MTSCaptivePortal/lib/mts/test/rand.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="13" lean-forward="true" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/staros/version.rb">
+    <entry file="file://$PROJECT_DIR$/../../../Source/MTSCaptivePortal/lib/mts/test/radius1.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="18" lean-forward="false" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
-          <folding />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/staros.rb">
+    <entry file="file://$PROJECT_DIR$/../../../Source/MTSCaptivePortal/lib/mts/test/radius.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/staros.gemspec">
+    <entry file="file://$PROJECT_DIR$/../../../Source/MTSCaptivePortal/lib/mts/test/KeyboardHandler.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Source/MTSCaptivePortal/lib/mts/test/dfdfdfd.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Source/MTSCaptivePortal/lib/mts/test/db.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Source/MTSCaptivePortal/lib/mts/test/classttt.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Source/MTSCaptivePortal/lib/mts/test/any.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Source/MTSCaptivePortal/lib/mts/test/aaa.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Source/MTSCaptivePortal/lib/mts/test/a_soap.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Source/MTSCaptivePortal/lib/mts/test/a.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Source/MTSCaptivePortal/lib/mts/SSH/MTS_AAA_SSH.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Source/MTSCaptivePortal/lib/mts/SSH/Find_client_by_access_interface.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Source/MTSCaptivePortal/lib/mts/SSH/sshtest.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Source/MTSCaptivePortal/lib/mts/SOAP/cps_procedures.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Source/MTSSoapGW/lib/any/peeraddr.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="5" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Source/MTSSoapGW/lib/any/peerAddrParse.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Source/MTSSoapGW/lib/any/dnsploczone.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="24" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Source/MTSSoapGW/lib/mts/projects/wttx/test.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Source/MTSSoapGW/lib/mts/projects/wttx/test2.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Source/MTSSoapGW/lib/mts/projects/wttx/testupdatepostcps.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Source/MTSSoapGW/lib/mts/projects/wttx/updatepostcps.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Source/MTSCaptivePortal/lib/mts/SOAP/testsoap.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Source/MTSCaptivePortal/lib/mts/SMSC/testsmpp.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Source/MTSCaptivePortal/lib/mts/Database/AddText.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Source/MTSSoapGW/app/controllers/ua_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Source/MTSSoapGW/config/database.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
-          <caret line="20" column="6" lean-forward="true" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Source/MTSSoapGW/lib/soapGateway/Api.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Source/MTSSoapGW/lib/mtswifi/test/a_soap.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Source/MTSSoapGW/lib/soapGateway/te.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-47">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Source/MTSSoapGW/lib/soapGateway/testssh.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Source/MTSSoapGW/lib/soapGateway/test.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="38" lean-forward="false" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Source/MTSSoapGW/lib/examples/example.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2070">
+          <caret line="138" column="0" lean-forward="false" selection-start-line="138" selection-start-column="0" selection-end-line="138" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Source/MTSSoapGW/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="10" lean-forward="false" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Source/MTSSoapGW/config/secrets.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Source/MTSSoapGW/lib/examples/xmlparse.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="16" lean-forward="true" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Source/MTSSoapGW/app/controllers/pscore_soap_gw_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="38" column="8" lean-forward="false" selection-start-line="38" selection-start-column="8" selection-end-line="38" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Source/MTSSoapGW/lib/mtswifi/SSH/getSubsInfo.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Source/MTSSoapGW/lib/mtswifi/SSH/Find_client_by_access_interface.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1181">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Source/MTSSoapGW/lib/mtswifi/SMSC/test.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Source/MTSSoapGW/lib/mtswifi/SMSC/MTSsmsc.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-369">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Source/MTSSoapGW/lib/smsc/MTSsmsc.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-354">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Source/MTSSoapGW/lib/mtswifi/AdditionalMethods.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="857">
+          <caret line="249" column="19" lean-forward="false" selection-start-line="249" selection-start-column="19" selection-end-line="249" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Source/MTSSoapGW/lib/mtswifi/SSH/MTS_AAA_SSH.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="49" column="20" lean-forward="true" selection-start-line="49" selection-start-column="20" selection-end-line="49" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Source/MTSSoapGW/app/controllers/wifi_portal_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1650">
+          <caret line="110" column="30" lean-forward="false" selection-start-line="110" selection-start-column="22" selection-end-line="110" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Source/MTSSoapGW/lib/mtswifi/SSH/sshtest.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="2" lean-forward="false" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Source/MTSSoapGW/lib/mtswifi/SSH/clearunauthsubs.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1905">
+          <caret line="127" column="0" lean-forward="false" selection-start-line="127" selection-start-column="0" selection-end-line="138" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Source/MTSSoapGW/lib/mtswifi/SSH/sshtest1.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="19" lean-forward="false" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
           <folding />
         </state>
       </provider>

@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Source/109/.idea/109.iml" filepath="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Source/109/.idea/109.iml" />
+      <module fileurl="file://$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Source/MTSCaptivePortal/.idea/MTSCaptivePortal.iml" filepath="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Source/MTSCaptivePortal/.idea/MTSCaptivePortal.iml" />
+      <module fileurl="file://$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Source/MTSSoapGW/.idea/SOAP_gateway.iml" filepath="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Source/MTSSoapGW/.idea/SOAP_gateway.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/staros.iml" filepath="$PROJECT_DIR$/.idea/staros.iml" />
     </modules>
   </component>
